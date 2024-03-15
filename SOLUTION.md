@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Solução para o Desafio de programação - Tempo Médio Entre Picos
 #### Autor: Guilherme Oliveira da Rocha Cunha
 ### 1. Ideias e estratégias
